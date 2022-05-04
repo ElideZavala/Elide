@@ -19,3 +19,15 @@ My name is Elide Zavala Vinagre, I live in México and I'm a Full-Stack develope
 
 [![ElideZavala's github stats](https://github-readme-stats.vercel.app/api?username=ElideZavala&show_icons=true&hide=["contribs"]&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElideZavala&layout=compact&theme=tokyonight)
+
+## Link to projects
+
+- [150 Project Goal](https://github.com/ElideZavala/150-Project-Goal)
+- [Algotithms](https://github.com/ElideZavala/Algorithms)
+
+- [AnimacionesCSS](https://github.com/ElideZavala/AnimacionesCSS)
+
+- [NodeJs](https://github.com/ElideZavala/NodeJs)
+
+- [FlexBox Grid-Sass-Animations](https://github.com/ElideZavala/FlexBox-Grid-Sass-Animations-Full)
+
